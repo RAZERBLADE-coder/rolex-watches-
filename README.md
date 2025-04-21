@@ -1,11 +1,10 @@
-# Responsive Watches Website ⌚
-## [Watch it on youtube](https://youtu.be/QPxYdbbCjhQ)
-### Responsive Watches Website ⌚
+##Rolex Soatlar Veb-sayti ⌚
+### Rolex Soatlar Veb-sayti ⌚
 
-- Responsive Watches Website Using HTML CSS & JavaScript
-- Smooth scrolling in each section.
-- Includes a dark and light mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+-HTML, CSS va JavaScript yordamida yaratilgan javob beruvchi soatlar veb-sayti.
+-Har bir bo'limda silliq aylanish.
+-Qorong'u va yorug'lik rejimlari mavjud.
+-Avval mobil qurilmalar uchun, keyin esa desktop uchun ishlab chiqilgan.
+-Barcha mobil qurilmalar bilan mos keladi va chiroyli, yoqimli foydalanuvchi interfeysi bilan jihozlangan
 
-![preview img](/preview.png)
+![preview img](/preview.png) 
